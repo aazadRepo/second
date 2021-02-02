@@ -1,3 +1,7 @@
 'this is file1 from windows bash shell' 
 'changed a bit in file1'
+<<<<<<< HEAD
 {changed after switching to master  branch}
+=======
+{text after switching with git switch experimental}
+>>>>>>> experimental

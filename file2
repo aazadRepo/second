@@ -1,2 +1,6 @@
 'file2: windows  bash shell '
+<<<<<<< HEAD
 {changed after swtiching to master branch}
+=======
+{text after git switch experimental}
+>>>>>>> experimental

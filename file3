@@ -1,2 +1,6 @@
 'file 3	:(Opened from windows bash shell sydney'
+<<<<<<< HEAD
 {changed after switching to master branch}
+=======
+{typed after git switch experimental command}
+>>>>>>> experimental
