@@ -33,3 +33,7 @@ I have changed it after 5-6 branches have been created already
 
 {test change}
 >>>>>>> experiment3
+
+==============
+{Change in just the main}
+>>>>>>>>main
