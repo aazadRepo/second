@@ -23,6 +23,13 @@ I have changed it in 27 febraury
 I have changed it after 5-6 branches have been created already
 
 {chaning file1 again 2nd time}
+<<<<<<< HEAD
 >>>>>>> experiment3
 
 "writing random stuff"
+=======
+
+
+
+{test change}
+>>>>>>> experiment3
